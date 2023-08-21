@@ -1,1 +1,2 @@
-# DigitalClock
+# Digital-clock
+ Sure! Here's a short description for a digital clock implementedThis project is a simple and stylish digital clock that displays the current time. It is built using HTML, CSS, and JavaScript. The HTML file sets up the basic structure of the clock, while the CSS file handles the visual styling, including font, colors, and positioning. The JavaScript code dynamically updates the clock every second, ensuring that it always shows the correct time. Users can easily integrate this digital clock into their websites or applications to provide real-time timekeeping in a visually appealing manner.
